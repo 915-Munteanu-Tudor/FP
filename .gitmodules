@@ -10,3 +10,6 @@
 [submodule "a10-915-Munteanu-Tudor"]
 	path = a10-915-Munteanu-Tudor
 	url = https://github.com/cs-ubbcluj-ro/a10-915-Munteanu-Tudor.git
+[submodule "a11-915-Munteanu-Tudor"]
+	path = a11-915-Munteanu-Tudor
+	url = https://github.com/cs-ubbcluj-ro/a11-915-Munteanu-Tudor.git
