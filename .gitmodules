@@ -1,0 +1,3 @@
+[submodule "t2"]
+	path = t2
+	url = https://github.com/cs-ubbcluj-ro/t2-915-Munteanu-Tudor.git
