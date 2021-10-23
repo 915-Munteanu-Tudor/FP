@@ -1,3 +1,6 @@
 [submodule "t2-915-Munteanu-Tudor"]
 	path = t2-915-Munteanu-Tudor
 	url = https://github.com/cs-ubbcluj-ro/t2-915-Munteanu-Tudor.git
+[submodule "t1-915-Munteanu-Tudor"]
+	path = t1-915-Munteanu-Tudor
+	url = https://github.com/cs-ubbcluj-ro/t1-915-Munteanu-Tudor.git
