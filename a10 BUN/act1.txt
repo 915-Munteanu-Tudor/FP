@@ -1,0 +1,10 @@
+001,['8h8td', '54ydf4'],13 Nov 2020,9,hangout
+002,['54ydf4'],13 Nov 2020,15,shopping
+003,['8h8td', 'f3rfs'],12 Nov 2020,15,meeting
+004,['4dsfv', '12fascxz'],23 Dec 2020,12,playing tennis
+005,['12fascxz', 'h43tu8'],23 Dec 2020,13,ice-skating
+006,['h4g53t', '32dgfg'],17 Jan 2021,11,trip
+007,['12fascxz'],12 Dec 2020,8,play
+008,['4dsfv'],12 Dec 2020,23,holiday with family
+009,['13adfs', '54ydf4', 'h4g53t'],12 Dec 2020,16,debate club
+010,['8h8td'],19 Dec 2020,7,general house cleaning
