@@ -1,0 +1,2 @@
+dim = 7
+apple_count = 6
